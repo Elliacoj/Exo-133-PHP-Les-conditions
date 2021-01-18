@@ -48,5 +48,7 @@ switch($color) {
    case "green":
         echo "Welcome";
         break;
+    default:
+        echo "Rien";
 }
 
